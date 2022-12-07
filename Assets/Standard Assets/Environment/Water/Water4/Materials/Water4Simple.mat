@@ -75,9 +75,9 @@ Material:
     - _BumpTiling: {r: 0.04, g: 0.04, b: 0.04, a: 0.08}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DepthColor: {r: 0.29811764, g: 0.36611718, b: 0.39552242, a: 0.34509805}
-    - _DistortParams: {r: 1.0285715, g: 0.20187221, b: 2.766625, a: -0.41714284}
+    - _DistortParams: {r: 0.1, g: 0.20187221, b: 2.766625, a: -0.41714284}
     - _Foam: {r: 0.3275862, g: 0.7471264, b: 0, a: 0}
-    - _GAmplitude: {r: 0.3, g: 0.2, b: 0.25, a: 0.25}
+    - _GAmplitude: {r: 0, g: 0, b: 0, a: 0}
     - _GDirectionAB: {r: 0.85, g: 0.3, b: 0.25, a: 0.25}
     - _GDirectionCD: {r: -0.3, g: -0.9, b: 0.5, a: 0.5}
     - _GFrequency: {r: 0.5, g: 0.25, b: 0.6, a: 0.245}
