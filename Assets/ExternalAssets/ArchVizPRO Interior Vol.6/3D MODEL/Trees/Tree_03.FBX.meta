@@ -1,81 +1,206 @@
 fileFormatVersion: 2
 guid: afaf66a7824ea3e4c8e91bdab3feba93
-timeCreated: 1486373040
-licenseType: Store
 ModelImporter:
-  serializedVersion: 20
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Tree_03_LOD0
-    100004: Tree_03_LOD1
-    100006: Tree_03_LOD2
-    100008: Branches
-    100010: Thorn
-    100012: Trunk_LOD0
-    100014: Branches_LOD0
-    100016: Trunk_LOD1
-    100018: Trunk_LOD2
-    100020: Trunk_LOD3
-    100022: Trunk_LOD4
-    400000: //RootNode
-    400002: Tree_03_LOD0
-    400004: Tree_03_LOD1
-    400006: Tree_03_LOD2
-    400008: Branches
-    400010: Thorn
-    400012: Trunk_LOD0
-    400014: Branches_LOD0
-    400016: Trunk_LOD1
-    400018: Trunk_LOD2
-    400020: Trunk_LOD3
-    400022: Trunk_LOD4
-    2300000: //RootNode
-    2300002: Tree_03_LOD0
-    2300004: Tree_03_LOD1
-    2300006: Tree_03_LOD2
-    2300008: Branches
-    2300010: Thorn
-    2300012: Trunk_LOD0
-    2300014: Branches_LOD0
-    2300016: Trunk_LOD1
-    2300018: Trunk_LOD2
-    2300020: Trunk_LOD3
-    2300022: Trunk_LOD4
-    3300000: //RootNode
-    3300002: Tree_03_LOD0
-    3300004: Tree_03_LOD1
-    3300006: Tree_03_LOD2
-    3300008: Branches
-    3300010: Thorn
-    3300012: Trunk_LOD0
-    3300014: Branches_LOD0
-    3300016: Trunk_LOD1
-    3300018: Trunk_LOD2
-    3300020: Trunk_LOD3
-    3300022: Trunk_LOD4
-    4300000: Tree_03
-    4300002: Tree_03_LOD0
-    4300004: Tree_03_LOD1
-    4300006: Tree_03_LOD2
-    4300008: Trunk_LOD0
-    4300010: Branches
-    4300012: Thorn
-    4300014: Branches_LOD0
-    4300016: Trunk_LOD1
-    4300018: Trunk_LOD2
-    4300020: Trunk_LOD3
-    4300022: Trunk_LOD4
-    9500000: //RootNode
-    20500000: //RootNode
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Tree_03_LOD0
+  - first:
+      1: 100004
+    second: Tree_03_LOD1
+  - first:
+      1: 100006
+    second: Tree_03_LOD2
+  - first:
+      1: 100008
+    second: Branches
+  - first:
+      1: 100010
+    second: Thorn
+  - first:
+      1: 100012
+    second: Trunk_LOD0
+  - first:
+      1: 100014
+    second: Branches_LOD0
+  - first:
+      1: 100016
+    second: Trunk_LOD1
+  - first:
+      1: 100018
+    second: Trunk_LOD2
+  - first:
+      1: 100020
+    second: Trunk_LOD3
+  - first:
+      1: 100022
+    second: Trunk_LOD4
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Tree_03_LOD0
+  - first:
+      4: 400004
+    second: Tree_03_LOD1
+  - first:
+      4: 400006
+    second: Tree_03_LOD2
+  - first:
+      4: 400008
+    second: Branches
+  - first:
+      4: 400010
+    second: Thorn
+  - first:
+      4: 400012
+    second: Trunk_LOD0
+  - first:
+      4: 400014
+    second: Branches_LOD0
+  - first:
+      4: 400016
+    second: Trunk_LOD1
+  - first:
+      4: 400018
+    second: Trunk_LOD2
+  - first:
+      4: 400020
+    second: Trunk_LOD3
+  - first:
+      4: 400022
+    second: Trunk_LOD4
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: Tree_03_LOD0
+  - first:
+      23: 2300004
+    second: Tree_03_LOD1
+  - first:
+      23: 2300006
+    second: Tree_03_LOD2
+  - first:
+      23: 2300008
+    second: Branches
+  - first:
+      23: 2300010
+    second: Thorn
+  - first:
+      23: 2300012
+    second: Trunk_LOD0
+  - first:
+      23: 2300014
+    second: Branches_LOD0
+  - first:
+      23: 2300016
+    second: Trunk_LOD1
+  - first:
+      23: 2300018
+    second: Trunk_LOD2
+  - first:
+      23: 2300020
+    second: Trunk_LOD3
+  - first:
+      23: 2300022
+    second: Trunk_LOD4
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: Tree_03_LOD0
+  - first:
+      33: 3300004
+    second: Tree_03_LOD1
+  - first:
+      33: 3300006
+    second: Tree_03_LOD2
+  - first:
+      33: 3300008
+    second: Branches
+  - first:
+      33: 3300010
+    second: Thorn
+  - first:
+      33: 3300012
+    second: Trunk_LOD0
+  - first:
+      33: 3300014
+    second: Branches_LOD0
+  - first:
+      33: 3300016
+    second: Trunk_LOD1
+  - first:
+      33: 3300018
+    second: Trunk_LOD2
+  - first:
+      33: 3300020
+    second: Trunk_LOD3
+  - first:
+      33: 3300022
+    second: Trunk_LOD4
+  - first:
+      43: 4300000
+    second: Tree_03
+  - first:
+      43: 4300002
+    second: Tree_03_LOD0
+  - first:
+      43: 4300004
+    second: Tree_03_LOD1
+  - first:
+      43: 4300006
+    second: Tree_03_LOD2
+  - first:
+      43: 4300008
+    second: Trunk_LOD0
+  - first:
+      43: 4300010
+    second: Branches
+  - first:
+      43: 4300012
+    second: Thorn
+  - first:
+      43: 4300014
+    second: Branches_LOD0
+  - first:
+      43: 4300016
+    second: Trunk_LOD1
+  - first:
+      43: 4300018
+    second: Trunk_LOD2
+  - first:
+      43: 4300020
+    second: Trunk_LOD3
+  - first:
+      43: 4300022
+    second: Trunk_LOD4
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      205: 20500000
+    second: //RootNode
+  externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 1
     materialSearch: 2
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -83,12 +208,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -101,19 +229,33 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: 1
+    indexFormat: 1
     secondaryUVAngleDistortion: 15
     secondaryUVAreaDistortion: 15
     secondaryUVHardAngle: 120
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 17
     useFileScale: 1
   tangentSpace:
@@ -121,10 +263,13 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -134,14 +279,18 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,67 +1,164 @@
 fileFormatVersion: 2
 guid: 82ef5af611b274046826503c9edf4a54
-timeCreated: 1499106421
-licenseType: Store
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Cylinder001
-    100004: Line048
-    100006: Line073
-    100008: Cylinder006
-    100010: Cylinder007
-    100012: Cylinder008
-    100014: Cylinder009
-    100016: Cylinder010
-    100018: Line093
-    400000: //RootNode
-    400002: Cylinder001
-    400004: Line048
-    400006: Line073
-    400008: Cylinder006
-    400010: Cylinder007
-    400012: Cylinder008
-    400014: Cylinder009
-    400016: Cylinder010
-    400018: Line093
-    2300000: Cylinder001
-    2300002: Line048
-    2300004: Line073
-    2300006: Cylinder006
-    2300008: Cylinder007
-    2300010: Cylinder008
-    2300012: Cylinder009
-    2300014: Cylinder010
-    2300016: Line093
-    3300000: Cylinder001
-    3300002: Line048
-    3300004: Line073
-    3300006: Cylinder006
-    3300008: Cylinder007
-    3300010: Cylinder008
-    3300012: Cylinder009
-    3300014: Cylinder010
-    3300016: Line093
-    4300000: Line048
-    4300002: Cylinder001
-    4300004: Line073
-    4300006: Cylinder006
-    4300008: Cylinder007
-    4300010: Cylinder008
-    4300012: Cylinder009
-    4300014: Cylinder010
-    4300016: Line093
-    9500000: //RootNode
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Cylinder001
+  - first:
+      1: 100004
+    second: Line048
+  - first:
+      1: 100006
+    second: Line073
+  - first:
+      1: 100008
+    second: Cylinder006
+  - first:
+      1: 100010
+    second: Cylinder007
+  - first:
+      1: 100012
+    second: Cylinder008
+  - first:
+      1: 100014
+    second: Cylinder009
+  - first:
+      1: 100016
+    second: Cylinder010
+  - first:
+      1: 100018
+    second: Line093
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Cylinder001
+  - first:
+      4: 400004
+    second: Line048
+  - first:
+      4: 400006
+    second: Line073
+  - first:
+      4: 400008
+    second: Cylinder006
+  - first:
+      4: 400010
+    second: Cylinder007
+  - first:
+      4: 400012
+    second: Cylinder008
+  - first:
+      4: 400014
+    second: Cylinder009
+  - first:
+      4: 400016
+    second: Cylinder010
+  - first:
+      4: 400018
+    second: Line093
+  - first:
+      23: 2300000
+    second: Cylinder001
+  - first:
+      23: 2300002
+    second: Line048
+  - first:
+      23: 2300004
+    second: Line073
+  - first:
+      23: 2300006
+    second: Cylinder006
+  - first:
+      23: 2300008
+    second: Cylinder007
+  - first:
+      23: 2300010
+    second: Cylinder008
+  - first:
+      23: 2300012
+    second: Cylinder009
+  - first:
+      23: 2300014
+    second: Cylinder010
+  - first:
+      23: 2300016
+    second: Line093
+  - first:
+      33: 3300000
+    second: Cylinder001
+  - first:
+      33: 3300002
+    second: Line048
+  - first:
+      33: 3300004
+    second: Line073
+  - first:
+      33: 3300006
+    second: Cylinder006
+  - first:
+      33: 3300008
+    second: Cylinder007
+  - first:
+      33: 3300010
+    second: Cylinder008
+  - first:
+      33: 3300012
+    second: Cylinder009
+  - first:
+      33: 3300014
+    second: Cylinder010
+  - first:
+      33: 3300016
+    second: Line093
+  - first:
+      43: 4300000
+    second: Line048
+  - first:
+      43: 4300002
+    second: Cylinder001
+  - first:
+      43: 4300004
+    second: Line073
+  - first:
+      43: 4300006
+    second: Cylinder006
+  - first:
+      43: 4300008
+    second: Cylinder007
+  - first:
+      43: 4300010
+    second: Cylinder008
+  - first:
+      43: 4300012
+    second: Cylinder009
+  - first:
+      43: 4300014
+    second: Cylinder010
+  - first:
+      43: 4300016
+    second: Line093
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -69,12 +166,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -82,26 +182,47 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -111,14 +232,18 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,80 +1,186 @@
 fileFormatVersion: 2
 guid: c21558eb767349c439ea55bcf3550cbe
-timeCreated: 1459291880
-licenseType: Store
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: Vase1
-    100002: Vase2
-    100004: Vase3
-    100006: Vase4
-    100008: Vase5
-    100010: //RootNode
-    100012: Object001
-    100014: Object002
-    100016: Object003
-    100018: Object004
-    400000: Vase1
-    400002: Vase2
-    400004: Vase3
-    400006: Vase4
-    400008: Vase5
-    400010: //RootNode
-    400012: Object001
-    400014: Object002
-    400016: Object003
-    400018: Object004
-    2300000: Vase1
-    2300002: Vase2
-    2300004: Vase3
-    2300006: Vase4
-    2300008: Vase5
-    2300010: //RootNode
-    2300012: Object001
-    2300014: Object002
-    2300016: Object003
-    2300018: Object004
-    3300000: Vase1
-    3300002: Vase2
-    3300004: Vase3
-    3300006: Vase4
-    3300008: Vase5
-    3300010: //RootNode
-    3300012: Object001
-    3300014: Object002
-    3300016: Object003
-    3300018: Object004
-    4300000: Vase5
-    4300002: Vase3
-    4300004: Vase2
-    4300006: Vase1
-    4300008: Vase4
-    4300010: Object001
-    4300012: Object002
-    4300014: Object003
-    4300016: Object004
-    9500000: //RootNode
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Vase1
+  - first:
+      1: 100002
+    second: Vase2
+  - first:
+      1: 100004
+    second: Vase3
+  - first:
+      1: 100006
+    second: Vase4
+  - first:
+      1: 100008
+    second: Vase5
+  - first:
+      1: 100010
+    second: //RootNode
+  - first:
+      1: 100012
+    second: Object001
+  - first:
+      1: 100014
+    second: Object002
+  - first:
+      1: 100016
+    second: Object003
+  - first:
+      1: 100018
+    second: Object004
+  - first:
+      4: 400000
+    second: Vase1
+  - first:
+      4: 400002
+    second: Vase2
+  - first:
+      4: 400004
+    second: Vase3
+  - first:
+      4: 400006
+    second: Vase4
+  - first:
+      4: 400008
+    second: Vase5
+  - first:
+      4: 400010
+    second: //RootNode
+  - first:
+      4: 400012
+    second: Object001
+  - first:
+      4: 400014
+    second: Object002
+  - first:
+      4: 400016
+    second: Object003
+  - first:
+      4: 400018
+    second: Object004
+  - first:
+      23: 2300000
+    second: Vase1
+  - first:
+      23: 2300002
+    second: Vase2
+  - first:
+      23: 2300004
+    second: Vase3
+  - first:
+      23: 2300006
+    second: Vase4
+  - first:
+      23: 2300008
+    second: Vase5
+  - first:
+      23: 2300010
+    second: //RootNode
+  - first:
+      23: 2300012
+    second: Object001
+  - first:
+      23: 2300014
+    second: Object002
+  - first:
+      23: 2300016
+    second: Object003
+  - first:
+      23: 2300018
+    second: Object004
+  - first:
+      33: 3300000
+    second: Vase1
+  - first:
+      33: 3300002
+    second: Vase2
+  - first:
+      33: 3300004
+    second: Vase3
+  - first:
+      33: 3300006
+    second: Vase4
+  - first:
+      33: 3300008
+    second: Vase5
+  - first:
+      33: 3300010
+    second: //RootNode
+  - first:
+      33: 3300012
+    second: Object001
+  - first:
+      33: 3300014
+    second: Object002
+  - first:
+      33: 3300016
+    second: Object003
+  - first:
+      33: 3300018
+    second: Object004
+  - first:
+      43: 4300000
+    second: Vase5
+  - first:
+      43: 4300002
+    second: Vase3
+  - first:
+      43: 4300004
+    second: Vase2
+  - first:
+      43: 4300006
+    second: Vase1
+  - first:
+      43: 4300008
+    second: Vase4
+  - first:
+      43: 4300010
+    second: Object001
+  - first:
+      43: 4300012
+    second: Object002
+  - first:
+      43: 4300014
+    second: Object003
+  - first:
+      43: 4300016
+    second: Object004
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleRotations: 1
+    resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -82,25 +188,47 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: 1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -110,11 +238,18 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
